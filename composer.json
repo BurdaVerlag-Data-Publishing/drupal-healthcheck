@@ -1,5 +1,5 @@
 {
-  "name": "burdanews/drupal_healthcheck",
+  "name": "burdaverlag-data-publishing/drupal-healthcheck",
   "type": "drupal-module",
   "description": "Drupal Healthcheck",
   "minimum-stability": "dev"
